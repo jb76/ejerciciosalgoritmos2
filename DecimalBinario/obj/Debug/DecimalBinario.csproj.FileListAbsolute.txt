@@ -1,0 +1,8 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\DecimalBinario\bin\Debug\DecimalBinario.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\DecimalBinario\bin\Debug\DecimalBinario.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\DecimalBinario\bin\Debug\DecimalBinario.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\DecimalBinario\obj\Debug\DecimalBinario.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\DecimalBinario\obj\Debug\DecimalBinario.pdb
+F:\EjerciciosAlgoritmos\DecimalBinario\bin\Debug\DecimalBinario.exe.config
+F:\EjerciciosAlgoritmos\DecimalBinario\obj\Debug\DecimalBinario.exe
+F:\EjerciciosAlgoritmos\DecimalBinario\obj\Debug\DecimalBinario.pdb
