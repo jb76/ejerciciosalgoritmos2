@@ -1,0 +1,6 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\bin\Debug\Operaciones.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\bin\Debug\Operaciones.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\bin\Debug\Operaciones.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\obj\Debug\Operaciones.csprojResolveAssemblyReference.cache
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\obj\Debug\Operaciones.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Operaciones\obj\Debug\Operaciones.pdb
