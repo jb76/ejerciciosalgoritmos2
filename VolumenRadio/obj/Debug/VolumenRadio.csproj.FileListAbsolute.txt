@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VolumenRadio\bin\Debug\VolumenRadio.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VolumenRadio\bin\Debug\VolumenRadio.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VolumenRadio\bin\Debug\VolumenRadio.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VolumenRadio\obj\Debug\VolumenRadio.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VolumenRadio\obj\Debug\VolumenRadio.pdb
