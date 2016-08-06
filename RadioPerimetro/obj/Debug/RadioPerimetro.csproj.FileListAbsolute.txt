@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\RadioPerimetro\bin\Debug\RadioPerimetro.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\RadioPerimetro\bin\Debug\RadioPerimetro.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\RadioPerimetro\bin\Debug\RadioPerimetro.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\RadioPerimetro\obj\Debug\RadioPerimetro.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\RadioPerimetro\obj\Debug\RadioPerimetro.pdb
