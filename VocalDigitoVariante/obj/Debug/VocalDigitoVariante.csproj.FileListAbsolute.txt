@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VocalDigitoVariante\bin\Debug\VocalDigitoVariante.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VocalDigitoVariante\bin\Debug\VocalDigitoVariante.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VocalDigitoVariante\bin\Debug\VocalDigitoVariante.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VocalDigitoVariante\obj\Debug\VocalDigitoVariante.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\VocalDigitoVariante\obj\Debug\VocalDigitoVariante.pdb
