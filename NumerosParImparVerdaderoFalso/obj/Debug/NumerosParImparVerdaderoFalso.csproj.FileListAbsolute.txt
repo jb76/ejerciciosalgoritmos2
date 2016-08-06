@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\NumerosParImparVerdaderoFalso\bin\Debug\NumerosParImparVerdaderoFalso.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\NumerosParImparVerdaderoFalso\bin\Debug\NumerosParImparVerdaderoFalso.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\NumerosParImparVerdaderoFalso\bin\Debug\NumerosParImparVerdaderoFalso.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\NumerosParImparVerdaderoFalso\obj\Debug\NumerosParImparVerdaderoFalso.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\NumerosParImparVerdaderoFalso\obj\Debug\NumerosParImparVerdaderoFalso.pdb
