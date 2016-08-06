@@ -1,0 +1,5 @@
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Ejerciciodos\bin\Debug\Ejerciciodos.exe.config
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Ejerciciodos\bin\Debug\Ejerciciodos.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Ejerciciodos\bin\Debug\Ejerciciodos.pdb
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Ejerciciodos\obj\Debug\Ejerciciodos.exe
+c:\users\orientador\documents\visual studio 2015\Projects\EjerciciosAlgoritmos\Ejerciciodos\obj\Debug\Ejerciciodos.pdb
